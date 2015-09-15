@@ -1,3 +1,7 @@
+open-falcon-api
+cfg.json
+.DS_Store
+
 # Logs
 logs
 *.log

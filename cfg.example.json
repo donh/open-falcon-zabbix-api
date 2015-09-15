@@ -1,0 +1,10 @@
+{
+    "debug": true,
+    "hostname": "",
+    "ip": "",
+    "database": {
+        "addr": "yourDbAddress",
+        "account": "yourDbAccount",
+        "password": "yourDbPassword"
+    }
+}
